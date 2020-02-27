@@ -1,6 +1,13 @@
-# Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [1.1.1](https://github.com/demonarxs1/ngx-slimscroll/compare/v5.2.2...v1.1.1) (2020-02-27)
+
+
+### Bug Fixes
+
+* grid opacity default option (closes [#110](https://github.com/demonarxs1/ngx-slimscroll/issues/110)) ([749768c](https://github.com/demonarxs1/ngx-slimscroll/commit/749768cec2fa87905f393f5039f55ced2a775666))
 
 <a name="5.2.2"></a>
 ## [5.2.2](https://github.com/jkuri/ngx-slimscroll/compare/v5.2.0...v5.2.2) (2018-07-17)
